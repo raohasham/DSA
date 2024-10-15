@@ -1,0 +1,23 @@
+linked list implementation
+opreations 
+ - create node
+ -add node
+  -add node at front
+  -display node data
+  -search given value
+  -add node in middle
+  -deletion of node
+
+
+
+
+  double linked list implementation
+  opreations 
+ - create node
+ -add node
+  -add node at front
+  -display node data
+  -search given value
+  -add node in middle
+  -deletion of node
+

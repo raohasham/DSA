@@ -101,5 +101,15 @@ int main(){
     l1.insertAtHead(7);
     l1.insertAtHead(5);
     l1.print();
+       cout << "\nSearching for 7: " << (l1.search(7) ? "Found" : "Not Found");
+    
+    l1.addNodeInMiddle(6, 7);
+    cout << "\nList after adding 6 after 7: ";
+    l1.print();
+    
+    l1.deleteNode(5);
+    cout << "\nList after deleting 5: ";
+    l1.print();
+
     return 0;
 }
