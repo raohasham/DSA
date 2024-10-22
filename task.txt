@@ -21,3 +21,11 @@ opreations
   -add node in middle
   -deletion of node
 
+
+stack implementation 
+ using array
+   -push
+   -pop
+   -peek
+   -isEmpty
+   -isFull
