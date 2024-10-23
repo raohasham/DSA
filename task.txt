@@ -29,3 +29,8 @@ stack implementation
    -peek
    -isEmpty
    -isFull
+  using linkedlist
+  -isEmpty
+  -push
+  -pop
+  -peek 
