@@ -1,2 +1,8 @@
 .vscode
 *.o
+linearSearch
+bubbleSort
+InsertionSort
+SelectionSort
+Quicksort
+mergesort
