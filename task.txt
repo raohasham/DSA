@@ -36,4 +36,14 @@ stack implementation
   -peek 
 
 
-gsjjjsjdj
+
+searching algorithms
+-binary search
+-linear search
+
+Sorting algorithms
+-bubble Sort
+-insertion Sort
+-selection Sort
+-merge Sort
+-quick Sort
